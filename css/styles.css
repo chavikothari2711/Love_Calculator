@@ -1,0 +1,113 @@
+.page{
+  background-color: #C89FF4;
+}
+.heading{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #7978FF;
+  font-size: 8rem;
+  color: #4649FF;
+}
+.big-heading{
+  margin-left:5%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #3F3B6C;
+}
+.sub-heading{
+  margin-left:5%;
+  text-align: left;
+  font-family: 'Lobster', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #3F3B6C;
+}
+.icon{
+  color:#3F3B6C;
+}
+.love-content{
+  margin:5% 0 0 10%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  color: #3F3B6C;
+}
+.flame-content{
+  margin:5% 0 10% 0;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  color: #3F3B6C;
+}
+.img{
+  width:40%;
+}
+.button{
+  margin-top: 3%;
+  text-align: center;
+}
+.but1, .but2{
+  margin:0 10%;
+  font-size: 3%
+}
+.rows{
+  text-align: center;
+  margin-top:5%;
+  line-height: 1.5rem;
+}
+.question{
+  font-size: 1.5rem;
+  color: #3F3B6C;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 2%
+}
+.icons{
+  margin-right: 3%;
+}
+.radio{
+  margin-bottom: 2%;
+}
+.heart{
+  width:30%;
+}
+.foot{
+  text-align:center;
+  margin-top:10%;
+  font-family:'Montserrat',sans-serif;
+  font-size:1rem;
+  color: #3F3B6C;
+}
+.nav1{
+  text-align: right;
+  font-size:1.2rem;
+  font-family:'Montserrat',sans-serif;
+  color: #3F3B6C;
+}
+.nav2{
+  text-align: left;
+  font-size:1.2rem;
+  font-family:'Montserrat',sans-serif;
+}
+.navtext{
+  color: #3F3B6C;
+}
+@media (max-width:1000px) {
+  .heart{
+    width:10%;
+    margin:5%;
+  }
+  .heading{
+    font-size: 5rem;
+  }
+}
+@media (max-width:570px){
+  .but1{
+    margin-bottom: 3%
+  }
+  .heading{
+    font-size: 4rem;
+  }
+}
